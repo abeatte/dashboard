@@ -14,11 +14,10 @@
   },
   "keywords": [
     "dashboard",
-    "command",
-    "center"
+    "command center"
   ],
   "author": "Art Beatte IV",
-  "license": "ISC",
+  "license": "NONE",
   "bugs": {
     "url": "https://github.com/abeatte/dashboard/issues"
   },
